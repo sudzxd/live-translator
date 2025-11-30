@@ -116,7 +116,6 @@ TBD
 
 Contributions are welcome! Please ensure:
 
-1. All tests pass (`./scripts/test.sh`)
 2. Code is formatted (`./scripts/format.sh`)
 3. Type checking passes (`./scripts/typecheck.sh`)
 4. Follow the style guide
