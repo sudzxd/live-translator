@@ -1,0 +1,66 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Dependency lock files
+uv.lock
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Type checking
+.mypy_cache/
+.pyright/
+.pytype/
+
+# Linting
+.ruff_cache/
+
+# IDEs
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Models and data
+models/
+*.pt
+*.pth
+*.onnx
+*.h5
+
+# Logs
+*.log
+logs/
